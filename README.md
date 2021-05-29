@@ -1,6 +1,6 @@
 # NASA wildfire API
 
-This project is a learning of fetching data through NASA API. You can track the wildfire warnings over the world on the google map. I learned to make it from https://www.youtube.com/watch?v=ontX4zfVqK8, but only changed the data source version from v2.1 to v3.
+This project is a learning of fetching data through NASA API. You can track the wildfire warnings over the world on the google map. I learned to make it from https://www.youtube.com/watch?v=ontX4zfVqK8, but only changed the data source version from v2.1 to v3. To run this project locally, you have to get your own Google Maps Javascript API Key and replace the hidden key in /src/components/Map.js, and remember to enable Maps JavaScript API for your API key.
 
 ## Running locally
 1. Clone this repo
